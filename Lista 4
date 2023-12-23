@@ -1,0 +1,17 @@
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Lista - Exercício 4</title>
+    </head>
+    <body>
+        <h1>Wikipedia</h1>
+        <h2>Artigo em destaque</h2>
+        <p>Gabriel Pleydell (fl. 1519 – c. 1591) de Midg Hall, na região de Lydiard St. John (posteriormente Lydiard Tregoze) em Wiltshire, foi um proprietário de terras e político inglês que trabalhou como membro do Parlamento para os distritos eleitorais de Wootton Bassett e Marlborough no Parlamento da Inglaterra.[2] Pleydell nasceu antes de 1519 em uma família grande e rica. Ingressou na política em março de 1553 como membro de Wootton Bassett, perto de sua propriedade familiar em Midgehall, Wiltshire. A eleição de Pleydell para o distrito eleitoral de Marlborough, dois anos depois, pode ter sido possibilitada pelas conexões influentes de seu pai. Posteriormente, retornou ao assento de Wootton Bassett a pedido de Sir John Thynne em 1563; o mesmo havia apoiado Thynne em uma disputa para ser o Cavaleiro do Condado em 1559</p>
+        <h2>Eventos atuais</h2>
+        <p>Encerram-se os Jogos Pan-Americanos (mapa dos países participantes) em Santiago, Chile.
+            Fluminense derrota Boca Juniors na final e conquista Copa Libertadores da América.
+            Furacão Otis deixa pelo menos 39 mortos ao atingir costa de Acapulco, México.
+            Tiroteio deixa 18 mortos e 13 feridos em Lewiston, Estados Unidos.</p>
+        <button><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal">fonte</a></button>
+    </body>
+</html>
