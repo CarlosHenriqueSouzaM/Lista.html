@@ -1,0 +1,22 @@
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Lista - Exercício </title>
+    </head>
+    <body>
+        <button><a href="https://www.minecraft.net/pt-br"></a>fonte</button>
+        <h1>Minecraft</h1>
+        <p>O Minecraft é um jogo composto por blocos, criaturas e pela comunidade. Podes utilizar os blocos para dar nova forma ao mundo ou construir criações fantásticas.<br><br> Podes combater criaturas ou criar amizades, tudo depende do teu estilo de jogo. Vive aventuras épicas sozinho ou com amigos, não há forma errada de jogar.
+            A menos que estejas a escavar na vertical.</p> 
+        <h2>Descobre o Minecraft Dungeons</h2>
+        <p>Um jogo de ação e aventura inspirado nos clássicos jogos de exploração de masmorras e passado no universo Minecraft.<br><br>Enfrenta as masmorras sozinho ou junta-te aos teus amigos! Forma uma equipa de até quatro jogadores para combaterem online ou em ecrã dividido.</p>
+        <h3>Descobrir o Minecraft Legends</h3>
+        <p>Descobre os mistérios do Minecraft Legends, um novo jogo de ação e estratégia. Lidera os teus aliados em batalhas heroicas para defenderes o Mundo Superior da destruição dos piglins.<br><br>Os piglins estão a tentar corromper o Mundo Superior e a transformá-lo numa terra árida do Submundo! És tu o herói que irá proteger esta terra gentil?</p>
+        <h4>Joga com Amigos</h4>
+        <p>Quer estejas a sobreviver à noite ou a construir uma obra de arte, podes fazê-lo na companhia de amigos. Uma aventura partilhada pode ser uma experiência incrível! <br><br> Joga com amigos em plataformas diferentes, desde que todos estejam a utilizar a mesma versão: Java Edition ou Bedrock Edition.</p>
+        <h5>MINECRAFT REALMS</h5>
+        <p>Uma subscrição do teu próprio servidor Minecraft pessoal, onde podes jogar online facilmente e em segurança com amigos em mundos partilhados entre dispositivos.<br><br>Com novos jogos, novas atualizações e novas formas de jogar, junte-se a uma das maiores comunidades no mundo dos jogos e comece a criar hoje mesmo!</p>
+        <h6>Sobrevive à Noite</h6>
+        <p>É sempre melhor afastares-te das criaturas que andam por aí a vaguear para evitares o imprevisível. Nunca se sabe o que pode acontecer se se aproximarem muito de ti!<br><br>Descobre toda a versatilidade do pó do minério de redstone e melhora as tuas criações, dá-lhes vida ou dá-lhes mais poder.</p>
+    </body>
+</html>
