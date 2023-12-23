@@ -1,0 +1,13 @@
+<html lang="pt-br">
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Lista - Exercício 3</title>
+    </head>
+    <body>
+        <h1>Que significa Semântica?</h1>
+        <p>Na programação, a Semântica se refere ao significado de um trecho de código — por exemplo, "que efeito tem a execução dessa linha de JavaScript?", Ou "que finalidade ou função esse elemento HTML tem" (em vez de "como ele se parece?").</p>
+        <h1>Porque isso é tão emportante para HTML5.</h1>
+        <p>As tags semânticas permitem que os mecanismos de busca identifiquem facilmente o título da página, o conteúdo principal e as seções secundárias. Isso ajuda a melhorar a relevância da página nos resultados de busca.</p>
+    </body>
+</html>
